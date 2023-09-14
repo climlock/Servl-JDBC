@@ -13,7 +13,6 @@ import java.util.Objects;
 //@EqualsAndHashCode
 //@ToString
 public class FlightDto {
-
     Long id;
     String description;
 
